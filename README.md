@@ -1,3 +1,3 @@
 # Netflixclone
-my first repo
+My first Git Repository.
 Author-Gayathri N
